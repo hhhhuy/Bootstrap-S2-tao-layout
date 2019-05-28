@@ -1,0 +1,80 @@
+header {
+    position: relative;
+}
+
+.shopping-mall {
+    bottom: 20px;
+    font-variant: small-caps;
+    float: left;
+    margin-top: 102px;
+}
+
+.shopping-mall > h1 {
+    font-family: Impact;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+
+.shopping-mall > h5 {
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+}
+
+.banner {
+    float: left;
+    padding-left: 112px;
+}
+
+.nav {
+    border-radius: 5px;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.left-content {
+    float: left;
+}
+
+.right-content {
+
+}
+
+.card {
+    text-align: center;
+}
+
+.cart {
+    border-radius: 5px;
+    border: solid #ddd;
+    padding: 15px;
+}
+
+li {
+    list-style-type: none
+}
+
+.search {
+    margin-top: 15px;
+    border-radius: 5px;
+    border: solid #ddd;
+    padding: 7px;
+}
+
+.category {
+    margin-top: 15px;
+    border-radius: 5px;
+    border: solid #ddd;
+    padding: 7px;
+}
+
+.footer {
+    border-radius: 5px;
+    border: solid #ddd;
+}
